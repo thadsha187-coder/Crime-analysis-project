@@ -3,8 +3,6 @@
 ## Project Overview
 This project analyses crime data across selected UK police forces to identify patterns in crime levels, crime types, and investigation outcomes. The analysis was conducted to support a real estate stakeholder in identifying locations that may be more or less desirable for property investment and residential living.
 
-The project uses open crime data published by UK Police and focuses on comparing crime patterns across multiple police force regions over two years.
-
 ## Dataset
 The dataset was obtained from the UK Police open data portal:
 
@@ -75,11 +73,5 @@ Based on the analysis, two police forces were identified as the most suitable ca
 
 These regions show substantially lower crime volumes compared with the Metropolitan Police Service and may contain areas with more favourable crime environments for residential property investment.
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
 Git hub : https://github.com/thadsha187-coder/Crime-analysis-project.git
